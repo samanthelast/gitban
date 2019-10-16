@@ -3,6 +3,7 @@
 
 
 widget Loading (){
+	loading.animation add
 	return Loading
 }
 
